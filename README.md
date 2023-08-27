@@ -25,9 +25,5 @@ Here are some ideas to get you started:
   </p>
   
   
-<a href="https://github.com/syncodd/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syncodd&layout=compact" />
-</a>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syncodd&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syncodd&layout=compact)
 

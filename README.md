@@ -24,4 +24,4 @@ Here are some ideas to get you started:
     <a href="https://stackoverflow.com/users/16900340/dananjaya-sandakalum"><img src="https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/16900340/dananjaya-sandakalum)](https://stackoverflow.com/users/16900340/dananjaya-sandakalum"></a>-->
   </p>
 
-[![Syncodd's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=syncodd)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syncodd)](https://github.com/anuraghazra/github-readme-stats)
